@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  net50web:
+    image: ${DOCKER_REGISTRY-}net50web
+    build:
+      context: .
+      dockerfile: Net50Web/Dockerfile

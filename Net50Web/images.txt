@@ -1,0 +1,16 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                           PORTS               NAMES
+4f0e56204768        68b                 "dotnet Net50Web.dll"    About a minute ago   Exited (130) 54 seconds ago                          jovial_lamport
+086647e598cd        net50web:v1         "dotnet Net50Web.dll"    2 minutes ago        Exited (150) 2 minutes ago                           eloquent_ishizaka
+329a8380d9db        net50web:v2         "dotnet Net50Web.dll"    32 minutes ago       Exited (130) 31 minutes ago                          interesting_germain
+4cc099b37bad        net50web:v2         "dotnet Net50Web.dll"    36 minutes ago       Exited (130) 34 minutes ago                          bold_heisenberg
+2f7deafd4f9a        net50web:v2         "dotnet Net50Web.dll"    38 minutes ago       Exited (130) 37 minutes ago                          naughty_hofstadter
+bf1ff9aa9fc2        net50web:v1         "dotnet Net50Web.dll"    48 minutes ago       Exited (150) 48 minutes ago                          flamboyant_jang
+357f9ee8c9f7        net50web:v1         "dotnet Net50Web.dll"    52 minutes ago       Exited (150) 52 minutes ago                          relaxed_swartz
+10db0ace8e8f        net50web:v1         "dotnet Net50Web.dll"    55 minutes ago       Exited (150) 54 minutes ago                          eager_ishizaka
+bef7a559d19e        net50web:v1         "dotnet Net50Web.dll"    55 minutes ago       Exited (150) 55 minutes ago                          pensive_lamport
+6681e453759d        net50web:v1         "dotnet Net50Web.dll"    58 minutes ago       Exited (150) 58 minutes ago                          jolly_ellis
+dfb2632687b0        net50web:v1         "dotnet Net50Web.dll"    59 minutes ago       Exited (150) 59 minutes ago                          musing_golick
+c923f651db11        33c                 "dotnet Net50Web.dll"    About an hour ago    Exited (150) About an hour ago                       hardcore_rhodes
+95e91f32ed88        33c                 "dotnet Net50Web.dll"    About an hour ago    Exited (150) About an hour ago                       hardcore_thompson
+58f551869cbf        162                 "dotnet Test.Test5.0…"   2 days ago           Exited (130) 2 days ago                              test50_container2
+941caba8eaac        91f                 "dotnet Test.Test5.0…"   2 days ago           Exited (130) 2 days ago                              test50_container
